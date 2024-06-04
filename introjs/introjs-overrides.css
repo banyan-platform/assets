@@ -2,9 +2,9 @@
   -moz-border-radius: 0px !important;
   -webkit-border-radius: 5px 5px 0px 0px !important;
   border-radius: 5px 5px 0px 0px !important;
-  padding: 1em;
+  padding: 1em !important;
   padding-top: 8px !important;
-  background-color: #162619;
+  background-color: #162619 !important;
 }
 
 .introjs-tooltiptext {
