@@ -1,0 +1,21 @@
+.introjs-tooltip-header {
+  -moz-border-radius: 0px !important;
+  -webkit-border-radius: 5px 5px 0px 0px !important;
+  border-radius: 5px 5px 0px 0px !important;
+  padding: 1em;
+  padding-top: 8px !important;
+  background-color: #162619;
+}
+
+.introjs-tooltiptext {
+  padding: 2em !important;
+  font-size: large !important;
+}
+
+.introjs-skipbutton:focus {
+  color: #162619 !important;
+}
+
+.introjs-skipbutton {
+  color: #162619 !important;
+}
